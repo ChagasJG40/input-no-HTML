@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="UTF-8/>"
+       <title>Pagina de Teste</title>
+       <link rel="stylesheet" href="estilo.css" />
+    </head>
+<body>
+    <h1>Pagina de Teste</h1>
+
+    <h2>Cadastro de usuario</h2>
+
+    <form action="paginas/login.html" method="get">    
+
+        <input type="datetime-local" name="Usuario" />
+
+        <input type="submit" />
+
+    </form>
+    
+</body>
+</html>
