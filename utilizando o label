@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="UTF-8/>"
+       <title>Pagina de Teste</title>
+       <link rel="stylesheet" href="estilo.css" />
+    </head>
+<body>
+    <h1>Pagina de Teste</h1>
+
+    <h2>Cadastro de usuario</h2>
+
+    <form action="paginas/login.html" method="get">      
+        
+        <label>
+            nome completo:<br/>
+            <input type="text" name="nome">
+        </label>
+
+        <br/><br/>
+
+        <input type="checkbox" id="teste">
+        <label for="teste">Se você concorda com os termos clicque aqui</label>
+
+        <button>Clique neste botao</button>
+
+        <input type="submit" value="Fazer Cadastro" />
+
+        <input type="submit" />
+
+    </form>
+    
+</body>
+</html>
